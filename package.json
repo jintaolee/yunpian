@@ -1,0 +1,23 @@
+{
+  "name": "yunpian",
+  "version": "1.0.2",
+  "description": "云片短信接口Node库",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha ./test/test.all.js"
+  },
+  "keywords": [
+    "云片",
+    "短信"
+  ],
+  "author": "aedan.li",
+  "license": "MIT",
+  "dependencies": {
+    "underscore": "^1.8.3",
+    "urllib": "^2.5.0"
+  },
+  "devDependencies": {
+    "mocha": "*",
+    "should.js": "*"
+  }
+}
